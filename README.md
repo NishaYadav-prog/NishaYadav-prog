@@ -15,6 +15,10 @@
 
 ---
 
+
+![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1cXawfAFqAQHtsQtsMNfyVcNDTJsjSTo1)
+
+---
 ## 🌟 About Me  
 
 - 🎓 **B.Tech in Computer Science Engineering (2026) | PSIT, Kanpur**  
