@@ -1,20 +1,3 @@
-<!-- Gradient Heading -->
-<h1 align="center">
-  <span style="color:#ff0066">✨ NISHA</span> 
-  <span style="color:#00ccff">YADAV ✨</span>
-</h1>
-
-<h3 align="center">🚀 Full-Stack Developer | 🐍 Python Enthusiast | 🤖 AI Explorer</h3>
-
----
-
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full-Stack+%26+AI+Developer;Passionate+about+Building+Impactful+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----
-
 
 ![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1cXawfAFqAQHtsQtsMNfyVcNDTJsjSTo1)
 
