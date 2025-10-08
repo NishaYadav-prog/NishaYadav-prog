@@ -1,9 +1,9 @@
-
 ![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1cXawfAFqAQHtsQtsMNfyVcNDTJsjSTo1)
 
 🔗 **View Portfolio:** [Nisha Yadav](https://68bb0bdf17852ba4cc7b2855--nisha-portfolio2.netlify.app/)
 
 ---
+
 ## 🌟 About Me  
 
 - 🎓 **B.Tech in Computer Science Engineering (2026) | PSIT, Kanpur**  
@@ -91,8 +91,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://nishayadavportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23FF61F6.svg?&logo=web&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nisha-yadav-96681a294/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:2k22.cse.2213343@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NishaYadav-prog"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://nishayadavportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nisha-yadav-96681a294/"><img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:2k22.cse.2213343@gmail.com"><img src="https://img.shields.io/badge/Email-1F1F1F?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/NishaYadav-prog"><img src="https://img.shields.io/badge/GitHub-1F1F1F?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/31096456/nisha-yadav"><img src="https://img.shields.io/badge/StackOverflow-1F1F1F?style=flat-square&logo=stackoverflow&logoColor=F48024" /></a>
+  <a href="https://wordpress.com/reader/users/2k22cse2213343"><img src="https://img.shields.io/badge/WordPress-1F1F1F?style=flat-square&logo=wordpress&logoColor=21759B" /></a>
 </p>
