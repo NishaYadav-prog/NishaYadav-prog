@@ -1,6 +1,6 @@
 ![Portfolio Screenshot](https://drive.google.com/uc?export=view&id=1cXawfAFqAQHtsQtsMNfyVcNDTJsjSTo1)
 
-🔗 **View Portfolio:** [Nisha Yadav](https://68bb0bdf17852ba4cc7b2855--nisha-portfolio2.netlify.app/)
+🔗 **View Portfolio:** [Nisha Yadav](https://nishayadav.in/)
 
 ---
 
