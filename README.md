@@ -1,4 +1,4 @@
-
+![Portfolio Screenshot](./Screenshot%202026-08-23%20135617.png)
 
 🔗 **View Portfolio:** [Nisha Yadav](https://nishayadav.in/)
 
